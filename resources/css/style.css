@@ -1,0 +1,36 @@
+/* Global */
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: rgb(253, 253, 253);
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(253, 253, 253);
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h4 {
+    color: gray;
+    font-size: 21px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 30px;
+    font-weight: normal;
+}
